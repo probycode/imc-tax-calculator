@@ -2,7 +2,9 @@
 using IMC.TaxJar.Client.Requests;
 using IMC.TaxJar.Client.Responses;
 using IMC.TaxJar.Common.Extensions;
+using IMC.TaxJar.Settings;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using System;
 using System.Net;
@@ -19,13 +21,19 @@ namespace IMC.TaxJar.Client
 
         private readonly ILogger<TaxJarClient> _logger;
         private readonly HttpClient _httpClient;
+        private readonly TaxJarSettings _taxJarSettings;
 
-        public TaxJarClient(ILogger<TaxJarClient> logger, HttpClient httpClient)
+        public TaxJarClient(ILogger<TaxJarClient> logger, HttpClient httpClient,
+            IOptions<TaxJarSettings> taxJarSettings)
         {
             _logger = logger;
             _httpClient = httpClient;
+            _taxJarSettings = taxJarSettings.Value;
 
-            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "5da2f821eee4035db4771edab942a4cc");
+            if (_taxJarSettings == null || string.IsNullOrEmpty(_taxJarSettings.ApiKey))
+                throw new Exception($"TaxJarSettings is not configured or Api Key is missing");
+
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _taxJarSettings.ApiKey);
             _httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
         }
 
