@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "GPqRtpIz+IkeSYV9TIA6yDcKM4pD6CZFj4MDK1RfJKDjEX0C4gu8fZ/fGbKQUM+q2Kt8ZcfQzr+1f5FcAjl+vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Momo\\Documents\\IMC Project\\IMCSalesTaxService\\IMC.TaxJar\\IMC.TaxJar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\Momo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

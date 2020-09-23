@@ -1,0 +1,12 @@
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\bin\Debug\netcoreapp3.1\IMC.TaxJar.deps.json
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\bin\Debug\netcoreapp3.1\IMC.TaxJar.dll
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\obj\Debug\netcoreapp3.1\IMC.TaxJar.csprojAssemblyReference.cache
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\obj\Debug\netcoreapp3.1\IMC.TaxJar.AssemblyInfoInputs.cache
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\obj\Debug\netcoreapp3.1\IMC.TaxJar.AssemblyInfo.cs
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\bin\Debug\netcoreapp3.1\IMC.TaxJar.pdb
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\bin\Debug\netcoreapp3.1\IMC.Common.dll
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\bin\Debug\netcoreapp3.1\IMC.Common.pdb
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\obj\Debug\netcoreapp3.1\IMC.TaxJar.csproj.CoreCompileInputs.cache
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\obj\Debug\netcoreapp3.1\IMC.TaxJar.csproj.CopyComplete
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\obj\Debug\netcoreapp3.1\IMC.TaxJar.dll
+C:\Users\Momo\Documents\IMC Project\IMCSalesTaxService\IMC.TaxJar\obj\Debug\netcoreapp3.1\IMC.TaxJar.pdb

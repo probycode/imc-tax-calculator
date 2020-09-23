@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/KyZ8WhbqTd29VyLQAyzyG9tHuvBpRCn7AZHQiiLH4xNisIXhcXH3pdwFX35fLf1jZjZDwqGYU3dDzelpO05g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Momo\\Documents\\IMC Project\\IMCSalesTaxService\\IMC.Common\\IMC.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Momo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
